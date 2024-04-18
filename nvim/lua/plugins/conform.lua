@@ -10,6 +10,7 @@ return {
 				typescript = { { "prettierd", "prettier" } },
 				javascriptreact = { { "prettierd", "prettier" } },
 				typescriptreact = { { "prettierd", "prettier" } },
+				go = { "gofmt" },
 			},
 			format_on_save = {
 				timeout_ms = 500,
